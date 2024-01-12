@@ -1,8 +1,6 @@
 # ML Model Management with JFrog Artifactory and JFrog Security Essentials (Xray)
 
-<a target="_blank" href="https://colab.research.google.com/github/urasoko/ml-repo-demo/blob/main/demo.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/urasoko/ml-repo-demo/blob/main/demo.ipynb)
 
 ## Overview
 
